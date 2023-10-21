@@ -9,7 +9,7 @@
  * Return: 1 if a flag has been turned on, 0 otherwise
  * Author: Papa Amoah && Victor
  */
-int flag(char s, flags_t *f)
+int get_flag(char s, flags_t *f)
 {
 	int i = 0;
 
